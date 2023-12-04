@@ -55,7 +55,7 @@ function createMarkup(event) {
       <div class="box">
         <h2>${name}</h2>
         <p>${description}</p>
-        <p><strong>Temperament:</strong> ${temperament}</p>
+        <p><b>Temperament:</b> ${temperament}</p>
       </div>
       `;
       catInfoEl.classList.remove('is-hidden');
